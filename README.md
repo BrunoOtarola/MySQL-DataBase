@@ -30,7 +30,7 @@ Los archivos están numerados en orden didáctico progresivo:
 
 | Archivo | Tema Principal | Descripción |
 | :--- | :--- | :--- |
-| [`0.Almacen-Manolo-Install.sql`](0.Almacen-Manolo-Install.sql) | **Instalación y DDL/DML** | Crea la base de datos `AlmacenManolo`, sus 5 tablas relacionales con claves primarias/foráneas y puebla datos de prueba. |
+| [`0.Almacen-Manolo-Install.sql`](0.Almacen-Manolo-Creacion.sql) | **Instalación y DDL/DML** | Crea la base de datos `AlmacenManolo`, sus 5 tablas relacionales con claves primarias/foráneas y puebla datos de prueba. |
 | [`1.select.sql`](1.select.sql) | **SELECT & ORDER BY** | Proyección de columnas y ordenamiento ascendente/descendente de registros. |
 | [`2.where.sql`](2.where.sql) | **Filtros WHERE** | Uso de operadores lógicos y relacionales (`IN`, `IS NULL`, `OR`, `<`). |
 | [`4.like.sql`](4.like.sql) | **Búsqueda por Patrones** | Coincidencias de texto usando el operador `LIKE` y comodines `%`. |
